@@ -16,7 +16,7 @@ import { Button } from '@/components/ui/button'
 
 export default function DashboardPage() {
   const { t } = useTranslation()
-  const [user, setUser] = useState<any>(null)
+  const [user, setUser] = useState<{ name?: string } | null>(null)
 
   useEffect(() => {
     const userData = localStorage.getItem('user')
@@ -135,7 +135,7 @@ export default function DashboardPage() {
             {t('dashboard.welcome')}, {user?.name || 'User'}! 👋
           </h1>
           <p className="text-slate-600 dark:text-slate-300">
-            Here's what's happening with your B2B marketing campaigns today.
+            Here&apos;s what&apos;s happening with your B2B marketing campaigns today.
           </p>
         </motion.div>
 

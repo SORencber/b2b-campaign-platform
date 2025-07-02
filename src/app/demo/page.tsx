@@ -3,14 +3,12 @@
 import { useState } from 'react'
 import { useTranslation } from 'react-i18next'
 import { useRouter } from 'next/navigation'
+import Link from 'next/link'
 import { motion } from 'framer-motion'
 import { Button } from '@/components/ui/button'
-import { EyeIcon, EyeSlashIcon } from '@heroicons/react/24/outline'
-
 export default function DemoPage() {
   const { t } = useTranslation()
   const router = useRouter()
-  const [showPassword, setShowPassword] = useState(false)
   const [isLoading, setIsLoading] = useState(false)
 
   const demoCredentials = {
@@ -88,7 +86,7 @@ export default function DemoPage() {
           {/* Demo Features */}
           <div className="mb-8">
             <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-4">
-              What you'll experience:
+              What you&apos;ll experience:
             </h3>
             <ul className="space-y-3 text-sm text-slate-600 dark:text-slate-300">
               <li className="flex items-center">
@@ -149,12 +147,12 @@ export default function DemoPage() {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-center"
         >
-          <a
+          <Link
             href="/"
             className="text-blue-600 dark:text-blue-400 hover:text-blue-700 dark:hover:text-blue-300 text-sm font-medium"
           >
             ← Back to Home
-          </a>
+          </Link>
         </motion.div>
       </div>
     </div>

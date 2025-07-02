@@ -13,7 +13,6 @@ import {
   MoonIcon,
   ComputerDesktopIcon,
   GlobeAltIcon,
-  ChevronDownIcon,
 } from '@heroicons/react/24/outline'
 import {
   DropdownMenu,
@@ -145,7 +144,7 @@ export function Header() {
             ) : (
               <div className="hidden md:flex items-center space-x-2">
                 <span className="text-sm text-slate-600 dark:text-slate-400">
-                  {user?.name || 'User'}
+                  {(user as { name?: string })?.name || 'User'}
                 </span>
                 <Button
                   variant="ghost"

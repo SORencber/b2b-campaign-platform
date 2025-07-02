@@ -13,8 +13,8 @@ interface AppContextType {
   setLanguage: (language: string) => void
   isAuthenticated: boolean
   setIsAuthenticated: (auth: boolean) => void
-  user: any
-  setUser: (user: any) => void
+  user: unknown
+  setUser: (user: unknown) => void
 }
 
 const AppContext = createContext<AppContextType | undefined>(undefined)
@@ -23,7 +23,7 @@ export function Providers({ children }: { children: React.ReactNode }) {
   const [theme, setTheme] = useState<Theme>('system')
   const [language, setLanguage] = useState('en')
   const [isAuthenticated, setIsAuthenticated] = useState(false)
-  const [user, setUser] = useState(null)
+  const [user, setUser] = useState<unknown>(null)
   const { i18n } = useTranslation()
 
   useEffect(() => {

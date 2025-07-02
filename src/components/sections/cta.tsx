@@ -1,14 +1,11 @@
 'use client'
 
-import { useTranslation } from 'react-i18next'
 import { motion } from 'framer-motion'
 import Link from 'next/link'
 import { Button } from '@/components/ui/button'
 import { ArrowRightIcon, SparklesIcon } from '@heroicons/react/24/outline'
 
 export function CTASection() {
-  const { t } = useTranslation()
-
   return (
     <section className="py-20 lg:py-32 bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-600 relative overflow-hidden">
       {/* Background Elements */}

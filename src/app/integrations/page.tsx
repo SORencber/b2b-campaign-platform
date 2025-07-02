@@ -8,8 +8,6 @@ import {
   CogIcon,
   GlobeAltIcon,
   ChartBarIcon,
-  DocumentTextIcon,
-  CalendarIcon,
   CreditCardIcon
 } from '@heroicons/react/24/outline'
 

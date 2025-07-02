@@ -1,12 +1,9 @@
 'use client'
 
-import { useTranslation } from 'react-i18next'
 import { motion } from 'framer-motion'
 import { StarIcon } from '@heroicons/react/24/solid'
 
 export function TestimonialsSection() {
-  const { t } = useTranslation()
-
   const testimonials = [
     {
       name: 'Sarah Johnson',
@@ -79,7 +76,7 @@ export function TestimonialsSection() {
 
               {/* Content */}
               <blockquote className="text-slate-600 dark:text-slate-300 mb-6 leading-relaxed">
-                "{testimonial.content}"
+                &quot;{testimonial.content.replace(/'/g, "&apos;")}&quot;
               </blockquote>
 
               {/* Author */}
