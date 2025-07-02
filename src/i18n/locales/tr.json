@@ -1,0 +1,315 @@
+{
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "view": "Görüntüle",
+    "close": "Kapat",
+    "back": "Geri",
+    "next": "İleri",
+    "previous": "Önceki",
+    "submit": "Gönder",
+    "reset": "Sıfırla",
+    "confirm": "Onayla",
+    "yes": "Evet",
+    "no": "Hayır",
+    "all": "Tümü",
+    "none": "Hiçbiri",
+    "select": "Seç",
+    "choose": "Seçin",
+    "upload": "Yükle",
+    "download": "İndir",
+    "export": "Dışa Aktar",
+    "import": "İçe Aktar",
+    "refresh": "Yenile",
+    "settings": "Ayarlar",
+    "profile": "Profil",
+    "logout": "Çıkış",
+    "login": "Giriş",
+    "register": "Kayıt Ol",
+    "demo": "Demo",
+    "try": "Dene",
+    "learn": "Öğren",
+    "more": "Daha Fazla",
+    "less": "Daha Az",
+    "show": "Göster",
+    "hide": "Gizle",
+    "expand": "Genişlet",
+    "collapse": "Daralt",
+    "copy": "Kopyala",
+    "paste": "Yapıştır",
+    "cut": "Kes",
+    "undo": "Geri Al",
+    "redo": "Yinele",
+    "zoom": "Yakınlaştır",
+    "fullscreen": "Tam Ekran",
+    "print": "Yazdır",
+    "share": "Paylaş",
+    "help": "Yardım",
+    "support": "Destek",
+    "contact": "İletişim",
+    "about": "Hakkında",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "cookies": "Çerezler",
+    "language": "Dil",
+    "theme": "Tema",
+    "dark": "Koyu",
+    "light": "Açık",
+    "auto": "Otomatik"
+  },
+  "navigation": {
+    "home": "Ana Sayfa",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "integrations": "Entegrasyonlar",
+    "support": "Destek",
+    "dashboard": "Dashboard",
+    "campaigns": "Kampanyalar",
+    "leads": "Müşteri Adayları",
+    "analytics": "Analitik",
+    "automation": "Otomasyon",
+    "social": "Sosyal Medya",
+    "crm": "CRM",
+    "email": "E-posta",
+    "settings": "Ayarlar",
+    "billing": "Faturalama"
+  },
+  "hero": {
+    "title": "B2B Pazarlamanızı AI Destekli Kampanyalarla Dönüştürün",
+    "subtitle": "Hedefli kampanyalar oluşturun, müşteri adayları çıkarın, e-postaları otomatikleştirin ve favori araçlarınızla entegre olun. Hepsi tek güçlü platformda.",
+    "cta_primary": "Ücretsiz Deneme Başlat",
+    "cta_secondary": "Demo İzle",
+    "features": {
+      "leads": "Müşteri Adayı Çıkarma",
+      "automation": "AI Otomasyonu",
+      "integration": "CRM Entegrasyonu",
+      "analytics": "Gelişmiş Analitik"
+    }
+  },
+  "pricing": {
+    "title": "Planınızı Seçin",
+    "subtitle": "Ücretsiz deneme ile başlayın, sonra işletmenize uygun planı seçin",
+    "monthly": "Aylık",
+    "yearly": "Yıllık",
+    "save": "%17 Tasarruf",
+    "popular": "En Popüler",
+    "starter": {
+      "name": "Başlangıç",
+      "description": "Yeni başlayan küçük işletmeler için mükemmel",
+      "price": "€29",
+      "period": "/ay",
+      "features": [
+        "100 Müşteri Adayı Çıkarma/ay",
+        "Temel E-posta Kampanyaları",
+        "1 CRM Entegrasyonu",
+        "Temel Analitik",
+        "E-posta Desteği"
+      ]
+    },
+    "professional": {
+      "name": "Profesyonel",
+      "description": "Büyüyen işletmeler için ideal",
+      "price": "€79",
+      "period": "/ay",
+      "features": [
+        "500 Müşteri Adayı Çıkarma/ay",
+        "Gelişmiş E-posta Kampanyaları",
+        "3 CRM Entegrasyonu",
+        "Gelişmiş Analitik",
+        "2 Sosyal Medya Platformu",
+        "Öncelikli Destek"
+      ]
+    },
+    "enterprise": {
+      "name": "Kurumsal",
+      "description": "Büyük organizasyonlar için",
+      "price": "€199",
+      "period": "/ay",
+      "features": [
+        "Sınırsız Müşteri Adayı Çıkarma",
+        "Tüm E-posta Özellikleri",
+        "Tüm CRM Entegrasyonları",
+        "Gelişmiş Analitik & Raporlama",
+        "Tüm Sosyal Medya Platformları",
+        "AI İçerik Üretimi",
+        "Özel Destek",
+        "Özel Entegrasyonlar"
+      ]
+    },
+    "agency": {
+      "name": "Ajans",
+      "description": "Pazarlama ajansları için",
+      "price": "€399",
+      "period": "/ay",
+      "features": [
+        "Çoklu Müşteri Yönetimi",
+        "White-Label Çözümü",
+        "Gelişmiş Otomasyon",
+        "Özel İş Akışları",
+        "API Erişimi",
+        "Özel Hesap Yöneticisi"
+      ]
+    }
+  },
+  "features": {
+    "title": "Modern B2B Pazarlama için Güçlü Özellikler",
+    "lead_extraction": {
+      "title": "AI Destekli Müşteri Adayı Çıkarma",
+      "description": "Gelişmiş AI algoritmalarımızla LinkedIn, şirket veritabanları ve web kaynaklarından yüksek kaliteli müşteri adayları çıkarın."
+    },
+    "email_automation": {
+      "title": "Akıllı E-posta Otomasyonu",
+      "description": "AI üretilen içerikler ve otomatik takiplerle kişiselleştirilmiş e-posta dizileri oluşturun."
+    },
+    "crm_integration": {
+      "title": "Kesintisiz CRM Entegrasyonu",
+      "description": "HubSpot, Salesforce, Pipedrive ve daha fazlasıyla bağlanın. Verileri otomatik olarak senkronize edin."
+    },
+    "social_media": {
+      "title": "Sosyal Medya Yönetimi",
+      "description": "AI destekli içerik üretimi ile tüm sosyal medya hesaplarınızı tek bir dashboard'dan yönetin."
+    },
+    "analytics": {
+      "title": "Gelişmiş Analitik",
+      "description": "Detaylı raporlar ve içgörülerle kampanya performansını, müşteri adayı kalitesini ve ROI'yi takip edin."
+    },
+    "automation": {
+      "title": "İş Akışı Otomasyonu",
+      "description": "Maksimum verimlilik için n8n entegrasyonu ile karmaşık otomasyon iş akışları oluşturun."
+    }
+  },
+  "dashboard": {
+    "welcome": "Tekrar hoş geldiniz",
+    "overview": "Genel Bakış",
+    "recent_campaigns": "Son Kampanyalar",
+    "lead_stats": "Müşteri Adayı İstatistikleri",
+    "email_performance": "E-posta Performansı",
+    "quick_actions": "Hızlı İşlemler",
+    "create_campaign": "Kampanya Oluştur",
+    "extract_leads": "Müşteri Adayı Çıkar",
+    "send_email": "E-posta Gönder",
+    "view_analytics": "Analitikleri Görüntüle"
+  },
+  "campaigns": {
+    "title": "Kampanyalar",
+    "create_new": "Yeni Kampanya Oluştur",
+    "name": "Kampanya Adı",
+    "description": "Açıklama",
+    "target_audience": "Hedef Kitle",
+    "status": "Durum",
+    "created": "Oluşturuldu",
+    "updated": "Güncellendi",
+    "actions": "İşlemler",
+    "draft": "Taslak",
+    "active": "Aktif",
+    "paused": "Duraklatıldı",
+    "completed": "Tamamlandı",
+    "archived": "Arşivlendi"
+  },
+  "leads": {
+    "title": "Müşteri Adayları",
+    "total": "Toplam Müşteri Adayı",
+    "new": "Yeni",
+    "contacted": "İletişim Kuruldu",
+    "qualified": "Nitelikli",
+    "converted": "Dönüştürüldü",
+    "name": "Ad",
+    "email": "E-posta",
+    "company": "Şirket",
+    "position": "Pozisyon",
+    "phone": "Telefon",
+    "status": "Durum",
+    "source": "Kaynak",
+    "added": "Eklendi",
+    "last_contact": "Son İletişim"
+  },
+  "analytics": {
+    "title": "Analitik",
+    "overview": "Genel Bakış",
+    "campaign_performance": "Kampanya Performansı",
+    "lead_quality": "Müşteri Adayı Kalitesi",
+    "email_metrics": "E-posta Metrikleri",
+    "conversion_rates": "Dönüşüm Oranları",
+    "revenue_impact": "Gelir Etkisi",
+    "period": "Dönem",
+    "last_7_days": "Son 7 Gün",
+    "last_30_days": "Son 30 Gün",
+    "last_90_days": "Son 90 Gün",
+    "this_year": "Bu Yıl"
+  },
+  "integrations": {
+    "title": "Entegrasyonlar",
+    "crm": "CRM Sistemleri",
+    "email": "E-posta Sağlayıcıları",
+    "social": "Sosyal Medya",
+    "automation": "Otomasyon Araçları",
+    "connected": "Bağlı",
+    "disconnected": "Bağlantısız",
+    "connect": "Bağlan",
+    "disconnect": "Bağlantıyı Kes",
+    "configure": "Yapılandır"
+  },
+  "auth": {
+    "login": {
+      "title": "Tekrar Hoş Geldiniz",
+      "subtitle": "Hesabınıza giriş yapın",
+      "email": "E-posta",
+      "password": "Şifre",
+      "remember": "Beni hatırla",
+      "forgot": "Şifremi unuttum?",
+      "signin": "Giriş Yap",
+      "no_account": "Hesabınız yok mu?",
+      "signup": "Kayıt ol"
+    },
+    "register": {
+      "title": "Hesap Oluştur",
+      "subtitle": "Bugün ücretsiz deneme başlatın",
+      "name": "Ad Soyad",
+      "email": "E-posta",
+      "password": "Şifre",
+      "confirm_password": "Şifre Onayla",
+      "company": "Şirket",
+      "agree": "Şartlar ve koşulları kabul ediyorum",
+      "signup": "Hesap Oluştur",
+      "have_account": "Zaten hesabınız var mı?",
+      "signin": "Giriş yap"
+    },
+    "demo": {
+      "title": "Demo Hesabı",
+      "subtitle": "Demo hesabımızla platformu keşfedin",
+      "email": "demo@example.com",
+      "password": "demo123",
+      "login": "Demo ile Giriş"
+    }
+  },
+  "footer": {
+    "product": "Ürün",
+    "features": "Özellikler",
+    "pricing": "Fiyatlandırma",
+    "integrations": "Entegrasyonlar",
+    "api": "API",
+    "company": "Şirket",
+    "about": "Hakkında",
+    "blog": "Blog",
+    "careers": "Kariyer",
+    "contact": "İletişim",
+    "support": "Destek",
+    "help": "Yardım Merkezi",
+    "documentation": "Dokümantasyon",
+    "status": "Durum",
+    "legal": "Yasal",
+    "privacy": "Gizlilik Politikası",
+    "terms": "Kullanım Şartları",
+    "cookies": "Çerez Politikası",
+    "copyright": "© 2024 B2B Campaign Platform. Tüm hakları saklıdır."
+  }
+} 

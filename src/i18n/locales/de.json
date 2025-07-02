@@ -1,0 +1,315 @@
+{
+  "common": {
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "create": "Erstellen",
+    "search": "Suchen",
+    "filter": "Filter",
+    "sort": "Sortieren",
+    "view": "Anzeigen",
+    "close": "Schließen",
+    "back": "Zurück",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "submit": "Absenden",
+    "reset": "Zurücksetzen",
+    "confirm": "Bestätigen",
+    "yes": "Ja",
+    "no": "Nein",
+    "all": "Alle",
+    "none": "Keine",
+    "select": "Auswählen",
+    "choose": "Wählen",
+    "upload": "Hochladen",
+    "download": "Herunterladen",
+    "export": "Exportieren",
+    "import": "Importieren",
+    "refresh": "Aktualisieren",
+    "settings": "Einstellungen",
+    "profile": "Profil",
+    "logout": "Abmelden",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "demo": "Demo",
+    "try": "Testen",
+    "learn": "Lernen",
+    "more": "Mehr",
+    "less": "Weniger",
+    "show": "Anzeigen",
+    "hide": "Verstecken",
+    "expand": "Erweitern",
+    "collapse": "Einklappen",
+    "copy": "Kopieren",
+    "paste": "Einfügen",
+    "cut": "Ausschneiden",
+    "undo": "Rückgängig",
+    "redo": "Wiederholen",
+    "zoom": "Zoomen",
+    "fullscreen": "Vollbild",
+    "print": "Drucken",
+    "share": "Teilen",
+    "help": "Hilfe",
+    "support": "Support",
+    "contact": "Kontakt",
+    "about": "Über uns",
+    "privacy": "Datenschutz",
+    "terms": "AGB",
+    "cookies": "Cookies",
+    "language": "Sprache",
+    "theme": "Design",
+    "dark": "Dunkel",
+    "light": "Hell",
+    "auto": "Automatisch"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "integrations": "Integrationen",
+    "support": "Support",
+    "dashboard": "Dashboard",
+    "campaigns": "Kampagnen",
+    "leads": "Leads",
+    "analytics": "Analysen",
+    "automation": "Automatisierung",
+    "social": "Social Media",
+    "crm": "CRM",
+    "email": "E-Mail",
+    "settings": "Einstellungen",
+    "billing": "Abrechnung"
+  },
+  "hero": {
+    "title": "Transformieren Sie Ihr B2B-Marketing mit KI-gestützten Kampagnen",
+    "subtitle": "Erstellen Sie zielgerichtete Kampagnen, extrahieren Sie Leads, automatisieren Sie E-Mails und integrieren Sie Ihre Lieblingstools. Alles in einer leistungsstarken Plattform.",
+    "cta_primary": "Kostenlos testen",
+    "cta_secondary": "Demo ansehen",
+    "features": {
+      "leads": "Lead-Extraktion",
+      "automation": "KI-Automatisierung",
+      "integration": "CRM-Integration",
+      "analytics": "Erweiterte Analysen"
+    }
+  },
+  "pricing": {
+    "title": "Wählen Sie Ihren Plan",
+    "subtitle": "Starten Sie mit unserer kostenlosen Testversion und wählen Sie dann den Plan, der zu Ihrem Unternehmen passt",
+    "monthly": "Monatlich",
+    "yearly": "Jährlich",
+    "save": "17% sparen",
+    "popular": "Am beliebtesten",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfekt für kleine Unternehmen, die gerade erst anfangen",
+      "price": "€29",
+      "period": "/Monat",
+      "features": [
+        "100 Lead-Extraktionen/Monat",
+        "Grundlegende E-Mail-Kampagnen",
+        "1 CRM-Integration",
+        "Grundlegende Analysen",
+        "E-Mail-Support"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Ideal für wachsende Unternehmen",
+      "price": "€79",
+      "period": "/Monat",
+      "features": [
+        "500 Lead-Extraktionen/Monat",
+        "Erweiterte E-Mail-Kampagnen",
+        "3 CRM-Integrationen",
+        "Erweiterte Analysen",
+        "2 Social Media Plattformen",
+        "Prioritäts-Support"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "Für große Organisationen",
+      "price": "€199",
+      "period": "/Monat",
+      "features": [
+        "Unbegrenzte Lead-Extraktionen",
+        "Alle E-Mail-Funktionen",
+        "Alle CRM-Integrationen",
+        "Erweiterte Analysen & Berichte",
+        "Alle Social Media Plattformen",
+        "KI-Inhaltsgenerierung",
+        "Dedizierter Support",
+        "Benutzerdefinierte Integrationen"
+      ]
+    },
+    "agency": {
+      "name": "Agentur",
+      "description": "Für Marketing-Agenturen",
+      "price": "€399",
+      "period": "/Monat",
+      "features": [
+        "Multi-Client-Management",
+        "White-Label-Lösung",
+        "Erweiterte Automatisierung",
+        "Benutzerdefinierte Workflows",
+        "API-Zugang",
+        "Dedizierter Account Manager"
+      ]
+    }
+  },
+  "features": {
+    "title": "Leistungsstarke Funktionen für modernes B2B-Marketing",
+    "lead_extraction": {
+      "title": "KI-gestützte Lead-Extraktion",
+      "description": "Extrahieren Sie hochwertige Leads aus LinkedIn, Unternehmensdatenbanken und Web-Quellen mit unseren fortschrittlichen KI-Algorithmen."
+    },
+    "email_automation": {
+      "title": "Intelligente E-Mail-Automatisierung",
+      "description": "Erstellen Sie personalisierte E-Mail-Sequenzen mit KI-generierten Inhalten und automatisierten Follow-ups."
+    },
+    "crm_integration": {
+      "title": "Nahtlose CRM-Integration",
+      "description": "Verbinden Sie sich mit HubSpot, Salesforce, Pipedrive und mehr. Synchronisieren Sie Daten automatisch."
+    },
+    "social_media": {
+      "title": "Social Media Management",
+      "description": "Verwalten Sie alle Ihre Social Media-Konten von einem Dashboard aus mit KI-gestützter Inhaltsgenerierung."
+    },
+    "analytics": {
+      "title": "Erweiterte Analysen",
+      "description": "Verfolgen Sie Kampagnenleistung, Lead-Qualität und ROI mit detaillierten Berichten und Erkenntnissen."
+    },
+    "automation": {
+      "title": "Workflow-Automatisierung",
+      "description": "Erstellen Sie komplexe Automatisierungs-Workflows mit n8n-Integration für maximale Effizienz."
+    }
+  },
+  "dashboard": {
+    "welcome": "Willkommen zurück",
+    "overview": "Übersicht",
+    "recent_campaigns": "Aktuelle Kampagnen",
+    "lead_stats": "Lead-Statistiken",
+    "email_performance": "E-Mail-Leistung",
+    "quick_actions": "Schnellaktionen",
+    "create_campaign": "Kampagne erstellen",
+    "extract_leads": "Leads extrahieren",
+    "send_email": "E-Mail senden",
+    "view_analytics": "Analysen anzeigen"
+  },
+  "campaigns": {
+    "title": "Kampagnen",
+    "create_new": "Neue Kampagne erstellen",
+    "name": "Kampagnenname",
+    "description": "Beschreibung",
+    "target_audience": "Zielgruppe",
+    "status": "Status",
+    "created": "Erstellt",
+    "updated": "Aktualisiert",
+    "actions": "Aktionen",
+    "draft": "Entwurf",
+    "active": "Aktiv",
+    "paused": "Pausiert",
+    "completed": "Abgeschlossen",
+    "archived": "Archiviert"
+  },
+  "leads": {
+    "title": "Leads",
+    "total": "Gesamt Leads",
+    "new": "Neu",
+    "contacted": "Kontaktiert",
+    "qualified": "Qualifiziert",
+    "converted": "Konvertiert",
+    "name": "Name",
+    "email": "E-Mail",
+    "company": "Unternehmen",
+    "position": "Position",
+    "phone": "Telefon",
+    "status": "Status",
+    "source": "Quelle",
+    "added": "Hinzugefügt",
+    "last_contact": "Letzter Kontakt"
+  },
+  "analytics": {
+    "title": "Analysen",
+    "overview": "Übersicht",
+    "campaign_performance": "Kampagnenleistung",
+    "lead_quality": "Lead-Qualität",
+    "email_metrics": "E-Mail-Metriken",
+    "conversion_rates": "Konversionsraten",
+    "revenue_impact": "Umsatzauswirkung",
+    "period": "Zeitraum",
+    "last_7_days": "Letzte 7 Tage",
+    "last_30_days": "Letzte 30 Tage",
+    "last_90_days": "Letzte 90 Tage",
+    "this_year": "Dieses Jahr"
+  },
+  "integrations": {
+    "title": "Integrationen",
+    "crm": "CRM-Systeme",
+    "email": "E-Mail-Anbieter",
+    "social": "Social Media",
+    "automation": "Automatisierungstools",
+    "connected": "Verbunden",
+    "disconnected": "Getrennt",
+    "connect": "Verbinden",
+    "disconnect": "Trennen",
+    "configure": "Konfigurieren"
+  },
+  "auth": {
+    "login": {
+      "title": "Willkommen zurück",
+      "subtitle": "Melden Sie sich in Ihrem Konto an",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "remember": "Angemeldet bleiben",
+      "forgot": "Passwort vergessen?",
+      "signin": "Anmelden",
+      "no_account": "Noch kein Konto?",
+      "signup": "Registrieren"
+    },
+    "register": {
+      "title": "Konto erstellen",
+      "subtitle": "Starten Sie noch heute Ihre kostenlose Testversion",
+      "name": "Vollständiger Name",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "confirm_password": "Passwort bestätigen",
+      "company": "Unternehmen",
+      "agree": "Ich stimme den Allgemeinen Geschäftsbedingungen zu",
+      "signup": "Konto erstellen",
+      "have_account": "Bereits ein Konto?",
+      "signin": "Anmelden"
+    },
+    "demo": {
+      "title": "Demo-Konto",
+      "subtitle": "Erkunden Sie die Plattform mit unserem Demo-Konto",
+      "email": "demo@example.com",
+      "password": "demo123",
+      "login": "Mit Demo anmelden"
+    }
+  },
+  "footer": {
+    "product": "Produkt",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "integrations": "Integrationen",
+    "api": "API",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "blog": "Blog",
+    "careers": "Karriere",
+    "contact": "Kontakt",
+    "support": "Support",
+    "help": "Hilfecenter",
+    "documentation": "Dokumentation",
+    "status": "Status",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Allgemeine Geschäftsbedingungen",
+    "cookies": "Cookie-Richtlinie",
+    "copyright": "© 2024 B2B Campaign Platform. Alle Rechte vorbehalten."
+  }
+} 

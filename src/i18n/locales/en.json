@@ -1,0 +1,315 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "view": "View",
+    "close": "Close",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "confirm": "Confirm",
+    "yes": "Yes",
+    "no": "No",
+    "all": "All",
+    "none": "None",
+    "select": "Select",
+    "choose": "Choose",
+    "upload": "Upload",
+    "download": "Download",
+    "export": "Export",
+    "import": "Import",
+    "refresh": "Refresh",
+    "settings": "Settings",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "register": "Register",
+    "demo": "Demo",
+    "try": "Try",
+    "learn": "Learn",
+    "more": "More",
+    "less": "Less",
+    "show": "Show",
+    "hide": "Hide",
+    "expand": "Expand",
+    "collapse": "Collapse",
+    "copy": "Copy",
+    "paste": "Paste",
+    "cut": "Cut",
+    "undo": "Undo",
+    "redo": "Redo",
+    "zoom": "Zoom",
+    "fullscreen": "Fullscreen",
+    "print": "Print",
+    "share": "Share",
+    "help": "Help",
+    "support": "Support",
+    "contact": "Contact",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "cookies": "Cookies",
+    "language": "Language",
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "auto": "Auto"
+  },
+  "navigation": {
+    "home": "Home",
+    "features": "Features",
+    "pricing": "Pricing",
+    "integrations": "Integrations",
+    "support": "Support",
+    "dashboard": "Dashboard",
+    "campaigns": "Campaigns",
+    "leads": "Leads",
+    "analytics": "Analytics",
+    "automation": "Automation",
+    "social": "Social Media",
+    "crm": "CRM",
+    "email": "Email",
+    "settings": "Settings",
+    "billing": "Billing"
+  },
+  "hero": {
+    "title": "Transform Your B2B Marketing with AI-Powered Campaigns",
+    "subtitle": "Create targeted campaigns, extract leads, automate emails, and integrate with your favorite tools. All in one powerful platform.",
+    "cta_primary": "Start Free Trial",
+    "cta_secondary": "Watch Demo",
+    "features": {
+      "leads": "Lead Extraction",
+      "automation": "AI Automation",
+      "integration": "CRM Integration",
+      "analytics": "Advanced Analytics"
+    }
+  },
+  "pricing": {
+    "title": "Choose Your Plan",
+    "subtitle": "Start with our free trial, then choose the plan that fits your business",
+    "monthly": "Monthly",
+    "yearly": "Yearly",
+    "save": "Save 17%",
+    "popular": "Most Popular",
+    "starter": {
+      "name": "Starter",
+      "description": "Perfect for small businesses getting started",
+      "price": "€29",
+      "period": "/month",
+      "features": [
+        "100 Lead Extractions/month",
+        "Basic Email Campaigns",
+        "1 CRM Integration",
+        "Basic Analytics",
+        "Email Support"
+      ]
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Ideal for growing businesses",
+      "price": "€79",
+      "period": "/month",
+      "features": [
+        "500 Lead Extractions/month",
+        "Advanced Email Campaigns",
+        "3 CRM Integrations",
+        "Advanced Analytics",
+        "2 Social Media Platforms",
+        "Priority Support"
+      ]
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "description": "For large organizations",
+      "price": "€199",
+      "period": "/month",
+      "features": [
+        "Unlimited Lead Extractions",
+        "All Email Features",
+        "All CRM Integrations",
+        "Advanced Analytics & Reporting",
+        "All Social Media Platforms",
+        "AI Content Generation",
+        "Dedicated Support",
+        "Custom Integrations"
+      ]
+    },
+    "agency": {
+      "name": "Agency",
+      "description": "For marketing agencies",
+      "price": "€399",
+      "period": "/month",
+      "features": [
+        "Multi-Client Management",
+        "White-Label Solution",
+        "Advanced Automation",
+        "Custom Workflows",
+        "API Access",
+        "Dedicated Account Manager"
+      ]
+    }
+  },
+  "features": {
+    "title": "Powerful Features for Modern B2B Marketing",
+    "lead_extraction": {
+      "title": "AI-Powered Lead Extraction",
+      "description": "Extract high-quality leads from LinkedIn, company databases, and web sources with our advanced AI algorithms."
+    },
+    "email_automation": {
+      "title": "Smart Email Automation",
+      "description": "Create personalized email sequences with AI-generated content and automated follow-ups."
+    },
+    "crm_integration": {
+      "title": "Seamless CRM Integration",
+      "description": "Connect with HubSpot, Salesforce, Pipedrive, and more. Sync data automatically."
+    },
+    "social_media": {
+      "title": "Social Media Management",
+      "description": "Manage all your social media accounts from one dashboard with AI-powered content generation."
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Track campaign performance, lead quality, and ROI with detailed reports and insights."
+    },
+    "automation": {
+      "title": "Workflow Automation",
+      "description": "Create complex automation workflows with n8n integration for maximum efficiency."
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "overview": "Overview",
+    "recent_campaigns": "Recent Campaigns",
+    "lead_stats": "Lead Statistics",
+    "email_performance": "Email Performance",
+    "quick_actions": "Quick Actions",
+    "create_campaign": "Create Campaign",
+    "extract_leads": "Extract Leads",
+    "send_email": "Send Email",
+    "view_analytics": "View Analytics"
+  },
+  "campaigns": {
+    "title": "Campaigns",
+    "create_new": "Create New Campaign",
+    "name": "Campaign Name",
+    "description": "Description",
+    "target_audience": "Target Audience",
+    "status": "Status",
+    "created": "Created",
+    "updated": "Updated",
+    "actions": "Actions",
+    "draft": "Draft",
+    "active": "Active",
+    "paused": "Paused",
+    "completed": "Completed",
+    "archived": "Archived"
+  },
+  "leads": {
+    "title": "Leads",
+    "total": "Total Leads",
+    "new": "New",
+    "contacted": "Contacted",
+    "qualified": "Qualified",
+    "converted": "Converted",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "position": "Position",
+    "phone": "Phone",
+    "status": "Status",
+    "source": "Source",
+    "added": "Added",
+    "last_contact": "Last Contact"
+  },
+  "analytics": {
+    "title": "Analytics",
+    "overview": "Overview",
+    "campaign_performance": "Campaign Performance",
+    "lead_quality": "Lead Quality",
+    "email_metrics": "Email Metrics",
+    "conversion_rates": "Conversion Rates",
+    "revenue_impact": "Revenue Impact",
+    "period": "Period",
+    "last_7_days": "Last 7 Days",
+    "last_30_days": "Last 30 Days",
+    "last_90_days": "Last 90 Days",
+    "this_year": "This Year"
+  },
+  "integrations": {
+    "title": "Integrations",
+    "crm": "CRM Systems",
+    "email": "Email Providers",
+    "social": "Social Media",
+    "automation": "Automation Tools",
+    "connected": "Connected",
+    "disconnected": "Disconnected",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "configure": "Configure"
+  },
+  "auth": {
+    "login": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to your account",
+      "email": "Email",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "signin": "Sign In",
+      "no_account": "Don't have an account?",
+      "signup": "Sign up"
+    },
+    "register": {
+      "title": "Create Account",
+      "subtitle": "Start your free trial today",
+      "name": "Full Name",
+      "email": "Email",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "company": "Company",
+      "agree": "I agree to the terms and conditions",
+      "signup": "Create Account",
+      "have_account": "Already have an account?",
+      "signin": "Sign in"
+    },
+    "demo": {
+      "title": "Demo Account",
+      "subtitle": "Explore the platform with our demo account",
+      "email": "demo@example.com",
+      "password": "demo123",
+      "login": "Login with Demo"
+    }
+  },
+  "footer": {
+    "product": "Product",
+    "features": "Features",
+    "pricing": "Pricing",
+    "integrations": "Integrations",
+    "api": "API",
+    "company": "Company",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "support": "Support",
+    "help": "Help Center",
+    "documentation": "Documentation",
+    "status": "Status",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "copyright": "© 2024 B2B Campaign Platform. All rights reserved."
+  }
+} 
