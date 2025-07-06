@@ -18,23 +18,21 @@ const resources = {
   },
 };
 
-// Only initialize i18n on the client side
-if (typeof window !== 'undefined') {
-  i18n
-    .use(initReactI18next)
-    .init({
-      resources,
-      lng: 'en', // default language
-      fallbackLng: 'en',
-      interpolation: {
-        escapeValue: false, // React already escapes values
-      },
-      detection: {
-        order: ['localStorage', 'navigator'],
-        caches: ['localStorage'],
-      },
-    });
-}
+// Initialize i18n
+i18n
+  .use(initReactI18next)
+  .init({
+    resources,
+    lng: 'en', // default language
+    fallbackLng: 'en',
+    interpolation: {
+      escapeValue: false, // React already escapes values
+    },
+    detection: {
+      order: ['localStorage', 'navigator'],
+      caches: ['localStorage'],
+    },
+  });
 
 export default i18n;
 
